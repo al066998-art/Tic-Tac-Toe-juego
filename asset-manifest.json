@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/al066998-art/tic-tac-toe.git/static/css/main.681ddc27.css",
-    "main.js": "/al066998-art/tic-tac-toe.git/static/js/main.7a583f46.js",
-    "static/js/453.882586d9.chunk.js": "/al066998-art/tic-tac-toe.git/static/js/453.882586d9.chunk.js",
-    "static/media/perito.jpeg": "/al066998-art/tic-tac-toe.git/static/media/perito.fb1e197f19ed8875b2a9.jpeg",
-    "static/media/logo.svg": "/al066998-art/tic-tac-toe.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/al066998-art/tic-tac-toe.git/index.html",
-    "main.681ddc27.css.map": "/al066998-art/tic-tac-toe.git/static/css/main.681ddc27.css.map",
-    "main.7a583f46.js.map": "/al066998-art/tic-tac-toe.git/static/js/main.7a583f46.js.map",
-    "453.882586d9.chunk.js.map": "/al066998-art/tic-tac-toe.git/static/js/453.882586d9.chunk.js.map"
+    "main.css": "/Tic-Tac-Toe-juego/static/css/main.681ddc27.css",
+    "main.js": "/Tic-Tac-Toe-juego/static/js/main.672c1478.js",
+    "static/js/453.882586d9.chunk.js": "/Tic-Tac-Toe-juego/static/js/453.882586d9.chunk.js",
+    "static/media/perito.jpeg": "/Tic-Tac-Toe-juego/static/media/perito.fb1e197f19ed8875b2a9.jpeg",
+    "static/media/logo.svg": "/Tic-Tac-Toe-juego/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tic-Tac-Toe-juego/index.html",
+    "main.681ddc27.css.map": "/Tic-Tac-Toe-juego/static/css/main.681ddc27.css.map",
+    "main.672c1478.js.map": "/Tic-Tac-Toe-juego/static/js/main.672c1478.js.map",
+    "453.882586d9.chunk.js.map": "/Tic-Tac-Toe-juego/static/js/453.882586d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.681ddc27.css",
-    "static/js/main.7a583f46.js"
+    "static/js/main.672c1478.js"
   ]
 }
